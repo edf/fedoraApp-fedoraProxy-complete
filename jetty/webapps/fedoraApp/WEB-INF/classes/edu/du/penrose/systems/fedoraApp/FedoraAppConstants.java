@@ -1,5 +1,5 @@
 /*
- * Copyright 2011 University of Denver
+ * Copyright 2012 University of Denver
  * Author Chet Rebman
  * 
  * This file is part of FedoraApp.
@@ -260,7 +260,6 @@ public class FedoraAppConstants {
 
     public static final String BATCH_INGEST_ENABLE_SIMULTANEOUS_MANUAL_AND_REMOTE_INGESTS_CHECKBOX_PROPERTY = "BATCH_INGEST_ENABLE_SIMULTANEOUS_MANUAL_AND_REMOTE_INGESTS_CHECKBOX";
     
-    // no longer used
     public static final String BATCH_INGEST_VALID_PID_FOR_FEDORA_CONNECTION_TEST_PROPERTY = "BATCH_INGEST_VALID_PID_TO_CHECK_FEDORA_CONNECTION";
     
     /*
